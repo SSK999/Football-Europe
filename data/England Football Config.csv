@@ -1,0 +1,125 @@
+League,Season,Level,Season_ID,DivName,Current Season
+England,1993-94,E0,9394,Premier League,N
+England,1993-94,E1,9394,Division 1,N
+England,1993-94,E2,9394,Division 2,N
+England,1993-94,E3,9394,Division 3,N
+England,1994-95,E0,9495,Premier League,N
+England,1994-95,E1,9495,Division 1,N
+England,1994-95,E2,9495,Division 2,N
+England,1994-95,E3,9495,Division 3,N
+England,1995-96,E0,9596,Premier League,N
+England,1995-96,E1,9596,Division 1,N
+England,1995-96,E2,9596,Division 2,N
+England,1995-96,E3,9596,Division 3,N
+England,1996-97,E0,9697,Premier League,N
+England,1996-97,E1,9697,Division 1,N
+England,1996-97,E2,9697,Division 2,N
+England,1996-97,E3,9697,Division 3,N
+England,1997-98,E0,9798,Premier League,N
+England,1997-98,E1,9798,Division 1,N
+England,1997-98,E2,9798,Division 2,N
+England,1997-98,E3,9798,Division 3,N
+England,1998-99,E0,9899,Premier League,N
+England,1998-99,E1,9899,Division 1,N
+England,1998-99,E2,9899,Division 2,N
+England,1998-99,E3,9899,Division 3,N
+England,1999-00,E0,9900,Premier League,N
+England,1999-00,E1,9900,Division 1,N
+England,1999-00,E2,9900,Division 2,N
+England,1999-00,E3,9900,Division 3,N
+England,2000-01,E0,1,Premier League,N
+England,2000-01,E1,1,Division 1,N
+England,2000-01,E2,1,Division 2,N
+England,2000-01,E3,1,Division 3,N
+England,2001-02,E0,102,Premier League,N
+England,2001-02,E1,102,Division 1,N
+England,2001-02,E2,102,Division 2,N
+England,2001-02,E3,102,Division 3,N
+England,2002-03,E0,203,Premier League,N
+England,2002-03,E1,203,Division 1,N
+England,2002-03,E2,203,Division 2,N
+England,2002-03,E3,203,Division 3,N
+England,2003-04,E0,304,Premier League,N
+England,2003-04,E1,304,Division 1,N
+England,2003-04,E2,304,Division 2,N
+England,2003-04,E3,304,Division 3,N
+England,2004-05,E0,405,Premier League,N
+England,2004-05,E1,405,Championship,N
+England,2004-05,E2,405,League 1,N
+England,2004-05,E3,405,League 2,N
+England,2005-06,E0,506,Premier League,N
+England,2005-06,E1,506,Championship,N
+England,2005-06,E2,506,League 1,N
+England,2005-06,E3,506,League 2,N
+England,2006-07,E0,607,Premier League,N
+England,2006-07,E1,607,Championship,N
+England,2006-07,E2,607,League 1,N
+England,2006-07,E3,607,League 2,N
+England,2007-08,E0,708,Premier League,N
+England,2007-08,E1,708,Championship,N
+England,2007-08,E2,708,League 1,N
+England,2007-08,E3,708,League 2,N
+England,2008-09,E0,809,Premier League,N
+England,2008-09,E1,809,Championship,N
+England,2008-09,E2,809,League 1,N
+England,2008-09,E3,809,League 2,N
+England,2009-10,E0,910,Premier League,N
+England,2009-10,E1,910,Championship,N
+England,2009-10,E2,910,League 1,N
+England,2009-10,E3,910,League 2,N
+England,2010-11,E0,1011,Premier League,N
+England,2010-11,E1,1011,Championship,N
+England,2010-11,E2,1011,League 1,N
+England,2010-11,E3,1011,League 2,N
+England,2011-12,E0,1112,Premier League,N
+England,2011-12,E1,1112,Championship,N
+England,2011-12,E2,1112,League 1,N
+England,2011-12,E3,1112,League 2,N
+England,2012-13,E0,1213,Premier League,N
+England,2012-13,E1,1213,Championship,N
+England,2012-13,E2,1213,League 1,N
+England,2012-13,E3,1213,League 2,N
+England,2013-14,E0,1314,Premier League,N
+England,2013-14,E1,1314,Championship,N
+England,2013-14,E2,1314,League 1,N
+England,2013-14,E3,1314,League 2,N
+England,2014-15,E0,1415,Premier League,N
+England,2014-15,E1,1415,Championship,N
+England,2014-15,E2,1415,League 1,N
+England,2014-15,E3,1415,League 2,N
+England,2015-16,E0,1516,Premier League,N
+England,2015-16,E1,1516,Championship,N
+England,2015-16,E2,1516,League 1,N
+England,2015-16,E3,1516,League 2,N
+England,2016-17,E0,1617,Premier League,N
+England,2016-17,E1,1617,Championship,N
+England,2016-17,E2,1617,League 1,N
+England,2016-17,E3,1617,League 2,N
+England,2017-18,E0,1718,Premier League,N
+England,2017-18,E1,1718,Championship,N
+England,2017-18,E2,1718,League 1,N
+England,2017-18,E3,1718,League 2,N
+England,2018-19,E0,1819,Premier League,N
+England,2018-19,E1,1819,Championship,N
+England,2018-19,E2,1819,League 1,N
+England,2018-19,E3,1819,League 2,N
+England,2019-20,E0,1920,Premier League,N
+England,2019-20,E1,1920,Championship,N
+England,2019-20,E2,1920,League 1,N
+England,2019-20,E3,1920,League 2,N
+England,2020-21,E0,2021,Premier League,N
+England,2020-21,E1,2021,Championship,N
+England,2020-21,E2,2021,League 1,N
+England,2020-21,E3,2021,League 2,N
+England,2021-22,E0,2122,Premier League,N
+England,2021-22,E1,2122,Championship,N
+England,2021-22,E2,2122,League 1,N
+England,2021-22,E3,2122,League 2,N
+England,2022-23,E0,2223,Premier League,N
+England,2022-23,E1,2223,Championship,N
+England,2022-23,E2,2223,League 1,N
+England,2022-23,E3,2223,League 2,N
+England,2023-24,E0,2324,Premier League,Y
+England,2023-24,E1,2324,Championship,Y
+England,2023-24,E2,2324,League 1,Y
+England,2023-24,E3,2324,League 2,Y
